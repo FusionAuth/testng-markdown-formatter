@@ -1,0 +1,9 @@
+[versions]
+guice = "6.0.0"
+mockito = "5.20.0"
+testng = "7.8.0"
+
+[libraries]
+guice = { module = "com.google.inject:guice", version.ref = "guice" }
+mockito-core = { module = "org.mockito:mockito-core", version.ref = "mockito" }
+testng = { module = "org.testng:testng", version.ref = "testng" }

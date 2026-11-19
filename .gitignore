@@ -1,3 +1,4 @@
 .savant
 /build
 /test-output
+.gradle
